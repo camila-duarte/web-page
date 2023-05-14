@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 .cardbg{
-    @apply bg-puce-400 rounded-md overflow-hidden w-70 transition hover:scale-110
+    @apply bg-tradewind-500 rounded-md overflow-hidden w-70 transition hover:scale-110
 }
 .boton{
-    @apply bg-puce-700 rounded-2xl w-20 h-8 text-center hover:bg-puce-400 transition ease-in-out delay-150 hover:scale-110 duration-300
+    @apply bg-tradewind-500 rounded-2xl w-20 h-8 text-center hover:bg-puce-400 transition ease-in-out delay-150 hover:scale-110 duration-300
 } 
